@@ -1,4 +1,4 @@
-# Horti-Culture Connect 🌿
+# Agro-Connect 🌿
 
 A full-stack web platform that connects **farmers, wholesalers, and consumers** for horticultural crops, enabling **direct trade** and **reducing middlemen**. The system promotes transparent pricing, real-time product listings, and better market accessibility.
 
